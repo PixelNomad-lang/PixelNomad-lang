@@ -140,7 +140,7 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect and Build
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-shukla-55825b256">LinkedIn</a> •
