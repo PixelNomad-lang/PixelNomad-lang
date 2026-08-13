@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adarsh Shukla 👋</h1>
+<h1 align="center">Hi there, I'm Adarsh  👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6FF&center=true&vCenter=true&width=600&lines=IT+Executive+%40+Sun+Pharma;Full+Stack+Developer+%E2%86%92+Data+Engineer;Building+production-grade+data+systems;Python+%7C+SQL+%7C+ML+%7C+Data+Pipelines" alt="Typing SVG" />
