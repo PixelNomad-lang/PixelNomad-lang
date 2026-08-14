@@ -143,7 +143,7 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
   <img src="https://raw.githubusercontent.com/PixelNomad-lang/PixelNomad-lang/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </p>
 
-> ⚠️ Yeh dono 3D visuals (snake graph + isometric 3D calendar) auto-generate hote hain via GitHub Actions on your **own profile repo** (`PixelNomad-lang/PixelNomad-lang`) — setup steps neeche diye hain.
+
 
 ---
 
