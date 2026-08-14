@@ -20,6 +20,11 @@
 
 ---
 
+<!-- 3D animated wave banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6FF,100:0B1D3A&height=140&section=header&text=&fontSize=0" width="100%">
+</p>
+
 ### 🧭 About Me
 
 ```python
@@ -127,6 +132,21 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 ---
 
+### 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PixelNomad-lang/PixelNomad-lang/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/PixelNomad-lang/PixelNomad-lang/output/grid-snake.svg#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PixelNomad-lang/PixelNomad-lang/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
+> ⚠️ Yeh dono 3D visuals (snake graph + isometric 3D calendar) auto-generate hote hain via GitHub Actions on your **own profile repo** (`PixelNomad-lang/PixelNomad-lang`) — setup steps neeche diye hain.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -139,6 +159,10 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:2EA6FF&height=100&section=footer" width="100%">
+</p>
 
 ### 📫 Let's Connect and Build
 
