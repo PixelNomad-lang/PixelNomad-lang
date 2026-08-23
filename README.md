@@ -71,6 +71,16 @@ Bronze/Silver/Gold modeling + an AI enrichment layer (RAG, text-to-SQL).
 <tr>
 <td width="50%" valign="top">
 
+**🏗️ [SQL Data Warehouse](https://github.com/PixelNomad-lang/sql-data-warehouse-projects)**
+SQL data warehouse built on the medallion architecture.
+
+`SQL` `ETL` `Data Modeling`
+
+Bronze → Silver → Gold layered pipeline turning raw data into clean, business-ready datasets, with dedicated ETL scripts, tests, and docs.
+
+</td>
+<td width="50%" valign="top">
+
 **🏭 [MechQC Warehouse](https://github.com/PixelNomad-lang/MECH-QC-PROJECT)**
 Manufacturing QC data warehouse & ML pipeline — my primary DE+DA+DS anchor project.
 
@@ -79,6 +89,8 @@ Manufacturing QC data warehouse & ML pipeline — my primary DE+DA+DS anchor pro
 Staged warehouse (staging → core_dw → data_mart) + interpretable decision-tree & regression models for predictive maintenance.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🧪 PharmaQA Auditor**
@@ -89,8 +101,6 @@ Automated pharma QA integrity & trend auditor, built in a timed 5-sprint pandas 
 ALCOA+ integrity checks, instrument-drift trend analysis, automated `QAAuditPipeline` class.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🛒 Retail Order Analytics**
@@ -101,12 +111,17 @@ Pandas-based ETL pipeline for e-commerce order data.
 Normalized 4-table schema, synthetic messy-data generation, idempotent upsert loads.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **📄 Pharma RAG**
 Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 `Python` `RAG` `LLM`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
