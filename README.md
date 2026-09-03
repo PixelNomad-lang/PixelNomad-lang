@@ -25,7 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6FF,100:0B1D3A&height=140&section=header&text=&fontSize=0" width="100%">
 </p>
 
-### 🧭 About Me
+### 🧭 About Mes
 
 ```python
 class Adarsh:
