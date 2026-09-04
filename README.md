@@ -141,6 +141,75 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 ---
 
+### 📈 Live Dashboards & Demos
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**MechQC — Predictive Maintenance**
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Looker%20Studio-Open%20Dashboard-4285F4?style=for-the-badge&logo=looker&logoColor=white"></a>
+<br><sub>QC yield, defect trends & failure-risk scoring</sub>
+
+</td>
+<td width="33%" align="center">
+
+**ChurnIQ — Retention Console**
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+<br><sub>Cohorts, RFM segments, churn probability</sub>
+
+</td>
+<td width="33%" align="center">
+
+**Logistics — Ops Dashboard**
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Snowflake%20%2B%20dbt-View%20Repo-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"></a>
+<br><sub>Shipment SLA, delay drivers, AI enrichment</sub>
+
+</td>
+</tr>
+</table>
+
+> 💡 *Swap the `#` links above with your actual Looker Studio / Streamlit Cloud URLs once deployed — badges will then link straight to the live dashboards.*
+
+---
+
+### 🏆 Certifications & Currently Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✅ Certifications**
+- *(add certification name — issuer, year)*
+- *(add certification name — issuer, year)*
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Currently Learning**
+- Advanced dbt (incremental models, testing)
+- Airflow production patterns (SLAs, retries, alerting)
+- ML model deployment & monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience Snapshot
+
+```text
+Sun Pharmaceutical Industries — IT Executive
+  → Full-stack (MERN) delivery, now extending into data engineering
+    & analytics for internal pharma QA/ops use cases.
+```
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -189,6 +258,10 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelNomad-lang&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PixelNomad-lang&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
 ---
