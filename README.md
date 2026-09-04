@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Adarsh  👋</h1>
+<h1 align="center">Hi there, I'm Adarsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6FF&center=true&vCenter=true&width=600&lines=IT+Executive+%40+Sun+Pharma;Full+Stack+Developer+%E2%86%92+Data+Engineer;Building+production-grade+data+systems;Python+%7C+SQL+%7C+ML+%7C+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6FF&center=true&vCenter=true&width=700&lines=IT+Executive+%40+Sun+Pharma;Data+Engineer+%7C+Data+Analyst+%7C+Data+Scientist;Bronze+%E2%86%92+Silver+%E2%86%92+Gold%3A+Pipelines+to+Predictions;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,26 +20,31 @@
 
 ---
 
-<!-- 3D animated wave banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6FF,100:0B1D3A&height=140&section=header&text=&fontSize=0" width="100%">
 </p>
 
-### 🧭 About Mes
+### 🧭 About Me
 
 ```python
 class Adarsh:
     def __init__(self):
         self.role = "IT Executive @ Sun Pharmaceutical Industries"
-        self.background = "Full Stack Developer (MERN)"
-        self.currently_transitioning_to = ["Data Engineering", "Data Science", "Analytics"]
-        self.edge = "Engineering discipline applied to data — not just notebooks"
+        self.background = "Full Stack Developer (MERN) -> Data"
+        self.core_pillars = ["Data Engineering", "Data Analytics", "Data Science"]
+        self.edge = "Software engineering discipline applied to data work"
 
     def philosophy(self):
-        return "Build systems that actually ship, not just work in a demo."
+        return "Build the pipeline, trust the numbers, then model what's next."
 ```
 
-I bring a software engineering foundation to data work — thinking in terms of pipelines, schemas, and production reliability, not just one-off analysis.
+I work across the full data lifecycle — from raw ingestion to production-ready models —
+bringing a software engineering foundation (schemas, pipelines, testing, reliability)
+to work that's often treated as one-off analysis.
+
+| 🏗️ Data Engineering | 📊 Data Analytics | 🤖 Data Science |
+|---|---|---|
+| Medallion pipelines (Bronze→Silver→Gold), ETL/ELT, orchestration | Dashboards, SQL analysis, cohort/RFM metrics, BI reporting | Predictive modeling, ML pipelines, explainability (SHAP) |
 
 ---
 
@@ -49,12 +54,13 @@ I bring a software engineering foundation to data work — thinking in terms of 
 <tr>
 <td width="50%" valign="top">
 
-**🔄 [ChurnIQ](https://github.com/PixelNomad-lang)**
-Industry-agnostic churn & retention intelligence engine — DE + DA + DS in a weekend sprint.
+**🏭 [MechQC Warehouse](https://github.com/PixelNomad-lang/MECH-QC-PROJECT)**
+Manufacturing QC data warehouse & ML pipeline — my primary DE+DA+DS anchor project.
 
-`Python` `pandas` `DuckDB` `scikit-learn` `Streamlit`
+`BigQuery` `Looker Studio` `scikit-learn`
 
-SaaS metrics (MRR/ARR, cohorts, RFM) → churn classification + CLV regression with SHAP explainability.
+Staged warehouse (staging → core_dw → data_mart) + interpretable decision-tree & regression models for predictive maintenance.
+**DE:** warehouse staging · **DA:** Looker dashboards · **DS:** predictive maintenance models
 
 </td>
 <td width="50%" valign="top">
@@ -65,10 +71,22 @@ End-to-end logistics data pipeline, built entirely on free-tier infra.
 `S3` `Snowflake` `dbt` `Airflow` `OpenAI`
 
 Bronze/Silver/Gold modeling + an AI enrichment layer (RAG, text-to-SQL).
+**DE:** orchestration & modeling · **DS:** RAG/text-to-SQL layer
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**🔄 [ChurnIQ](https://github.com/PixelNomad-lang)**
+Industry-agnostic churn & retention intelligence engine — DE + DA + DS in a weekend sprint.
+
+`Python` `pandas` `DuckDB` `scikit-learn` `Streamlit`
+
+SaaS metrics (MRR/ARR, cohorts, RFM) → churn classification + CLV regression with SHAP explainability.
+**DA:** cohort/RFM metrics · **DS:** churn classification + CLV regression
+
+</td>
 <td width="50%" valign="top">
 
 **🏗️ [SQL Data Warehouse](https://github.com/PixelNomad-lang/sql-data-warehouse-projects)**
@@ -77,16 +95,7 @@ SQL data warehouse built on the medallion architecture.
 `SQL` `ETL` `Data Modeling`
 
 Bronze → Silver → Gold layered pipeline turning raw data into clean, business-ready datasets, with dedicated ETL scripts, tests, and docs.
-
-</td>
-<td width="50%" valign="top">
-
-**🏭 [MechQC Warehouse](https://github.com/PixelNomad-lang/MECH-QC-PROJECT)**
-Manufacturing QC data warehouse & ML pipeline — my primary DE+DA+DS anchor project.
-
-`BigQuery` `Looker Studio` `scikit-learn`
-
-Staged warehouse (staging → core_dw → data_mart) + interpretable decision-tree & regression models for predictive maintenance.
+**DE:** full pipeline · **DA:** business-ready gold layer
 
 </td>
 </tr>
@@ -99,6 +108,7 @@ Automated pharma QA integrity & trend auditor, built in a timed 5-sprint pandas 
 `Python` `pandas`
 
 ALCOA+ integrity checks, instrument-drift trend analysis, automated `QAAuditPipeline` class.
+**DE:** pipeline class design · **DA:** drift trend analysis
 
 </td>
 <td width="50%" valign="top">
@@ -109,6 +119,7 @@ Pandas-based ETL pipeline for e-commerce order data.
 `Python` `pandas` `PostgreSQL`
 
 Normalized 4-table schema, synthetic messy-data generation, idempotent upsert loads.
+**DE:** schema design & idempotent loads · **DA:** order-level analysis
 
 </td>
 </tr>
@@ -119,6 +130,7 @@ Normalized 4-table schema, synthetic messy-data generation, idempotent upsert lo
 Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 `Python` `RAG` `LLM`
+**DS:** retrieval & LLM application layer
 
 </td>
 <td width="50%" valign="top">
@@ -135,15 +147,23 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
   <img src="https://skillicons.dev/icons?i=python,postgres,gcp,react,nodejs,git,vscode,linux" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-</p>
+**Data Engineering:** 
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+
+**Data Analytics:**
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+
+**Data Science:**
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/RAG%2FLLM-000000?style=flat-square&logo=openai&logoColor=white">
 
 ---
 
@@ -157,8 +177,6 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 <p align="center">
   <img src="https://raw.githubusercontent.com/PixelNomad-lang/PixelNomad-lang/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </p>
-
-
 
 ---
 
