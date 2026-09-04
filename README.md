@@ -182,9 +182,9 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 <tr>
 <td width="50%" valign="top">
 
-**✅ Certifications**
-- *(add certification name — issuer, year)*
-- *(add certification name — issuer, year)*
+**✅ Licenses & Certifications**
+- 🎓 Databricks for Data Analysts — *LinkedIn Learning*
+- 🎓 Generative AI for Data Engineering: ChatGPT Power Tips — *LinkedIn Learning* (Aug 2026)
 
 </td>
 <td width="50%" valign="top">
@@ -200,12 +200,23 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 
 ---
 
-### 💼 Experience Snapshot
+### 💼 Experience & Education
 
 ```text
 Sun Pharmaceutical Industries — IT Executive
   → Full-stack (MERN) delivery, now extending into data engineering
     & analytics for internal pharma QA/ops use cases.
+
+Web Developer Intern — NIELIT                          | May 2024 - Aug 2024
+  → PostgreSQL, ReactJS
+
+Front End Developer Intern — Start-up (Remote)          | May 2024 - Aug 2024
+  → JavaScript, React.js — owned user-facing UI development
+
+🎓 B.Tech, Computer Science — Veer Bahadur Singh Purvanchal University, Jaunpur
+  → Oct 2021 - Mar 2025 · CGPA 8.8
+🎓 Intermediate — Central Board of Secondary Education
+  → Apr 2018 - Mar 2020 · 87.5%
 ```
 
 ---
