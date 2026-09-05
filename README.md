@@ -203,15 +203,48 @@ Retrieval-Augmented Generation app for querying pharma SOPs/QA documents.
 ### 💼 Experience & Education
 
 ```text
-Sun Pharmaceutical Industries — IT Executive
-  → Full-stack (MERN) delivery, now extending into data engineering
-    & analytics for internal pharma QA/ops use cases.
+### 💼 Experience & Education
 
-Web Developer Intern — NIELIT                          | May 2024 - Aug 2024
+```text
+Sun Pharmaceutical Industries — IT Executive
+  → IT operations and technical support in a GxP-regulated
+    pharmaceutical environment.
+  → Supporting IT infrastructure, applications, systems,
+    troubleshooting and business operations.
+
+Alkem Laboratories — IT Engineer
+  → July 2025 - March 2026
+  → Worked on IT infrastructure, technical support and
+    day-to-day IT operations in a pharmaceutical environment.
+  → Gained hands-on experience working in a regulated
+    enterprise environment.
+
+Adventure Triangle — Part-time Full Stack Developer
+  → March 2025 - June 2026
+  → Worked as a Full Stack Developer using modern web
+    technologies and contributed to end-to-end product delivery.
+  → Led, developed and deployed two production projects:
+      • GO Green Gnomes — https://gggnomes.com/
+      • Adventure Triangle — https://adventuretriangle.com/login
+  → Handled development, deployment and project-level
+    technical responsibilities.
+
+Web Developer Intern — NIELIT
+  → May 2024 - August 2024
   → PostgreSQL, ReactJS
 
-Front End Developer Intern — Start-up (Remote)          | May 2024 - Aug 2024
+Front End Developer Intern — Start-up (Remote)
+  → May 2024 - August 2024
   → JavaScript, React.js — owned user-facing UI development
+
+
+🎓 B.Tech, Computer Science — Veer Bahadur Singh Purvanchal University, Jaunpur
+  → October 2021 - March 2025 · CGPA 8.8
+
+🎓 Intermediate — Central Board of Secondary Education
+  → April 2018 - March 2020 · 87.5%
+```
+
 
 🎓 B.Tech, Computer Science — Veer Bahadur Singh Purvanchal University, Jaunpur
   → Oct 2021 - Mar 2025 · CGPA 8.8
